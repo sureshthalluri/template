@@ -19,7 +19,7 @@ Features
 Installation
 ------------
 
-Install $project by running:
+Install InAppBI by running:
 
     install project
 
