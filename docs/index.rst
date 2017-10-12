@@ -27,3 +27,5 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+Documentation for the reText http://www.sphinx-doc.org/en/stable/rest.html#source-code
+
